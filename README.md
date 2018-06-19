@@ -34,7 +34,7 @@ First commit.
 
 ## Contact
 
-dbarobinwen@gmail.com
+blockxyz@gmail.com
 
 ## License
 
